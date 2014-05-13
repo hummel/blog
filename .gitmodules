@@ -3,4 +3,4 @@
 	url = https://github.com:getpelican/pelican-plugins.git
 [submodule "pelican-octopress-theme"]
 	path = pelican-octopress-theme
-	url = git@github.com:hummel/pelican-octopress-theme.git
+	url = https://github.com/duilio/pelican-octopress-theme.git
