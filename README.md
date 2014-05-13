@@ -1,4 +1,4 @@
-hummel.github.io
+Jacob Hummel
 -----------------------
 This is the source of my [blog](http://hummel.github.io). It is built using the [Pelican](http://blog.getpelican.com/)
 blogging platform.
