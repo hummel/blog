@@ -1,6 +1,8 @@
-Title: Why Python is Slow: Looking Under the Hood
-date: 2014-05-09 07:00
-comments: true
-slug: why-python-is-slow
+Title: First Post
+date: 2014-05-13 05:00
+comments: false
+slug: first-post
 
-{% notebook WhyPythonIsSlow.ipynb cells[2:] %}
+hummel.github.io
+-----------------------
+First post for my [blog](http://hummel.github.io). Hooray blogginess!
