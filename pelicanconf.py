@@ -19,7 +19,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 MENUITEMS = [('Archives', '/archives.html'),
-             ('Home Page', 'http://www.as.utexas.edu/~jhummel')]
+             ('Home Page', 'http://www.as.utexas.edu/~jhummel/')]
 NEWEST_FIRST_ARCHIVES = False
 
 #Github include settings
