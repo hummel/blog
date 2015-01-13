@@ -46,7 +46,7 @@ DEFAULT_PAGINATION = 10
 #FILES_TO_COPY = [('favicon.png', 'favicon.png')]
 
 # This requires Pelican 3.3+
-STATIC_PATHS = ['images', 'figures', 'downloads', 'favicon.png']
+STATIC_PATHS = ['images', 'figures', 'downloads', 'favicon.ico', 'googleaeb21469659f4ce0.html']
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
