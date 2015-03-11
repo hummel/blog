@@ -76,7 +76,7 @@ else:
     EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 
 # Sharing
-TWITTER_USER = 'jhummel512'
+TWITTER_USER = 'astrohummel'
 #GOOGLE_PLUS_USER = 'jakevdp'
 #GOOGLE_PLUS_ONE = True
 #GOOGLE_PLUS_HIDDEN = False
