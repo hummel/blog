@@ -7,4 +7,4 @@ The following is a brief tutorial written for my students on grabbing FITS image
 
 *Everything below this point is an IPython notebook and can be downloaded [here](http://hummel.github.io/downloads/notebooks/astropy-fits.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/hummel.github.io/downloads/notebooks/astropy-fits.ipynb).*
 
-{% notebook astropy-fits.ipynb %}
+{% notebook downloads/notebooks/astropy-fits.ipynb %}

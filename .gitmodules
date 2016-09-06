@@ -4,3 +4,6 @@
 [submodule "flex"]
 	path = flex
 	url = git@github.com:alexandrevicenzi/Flex.git
+[submodule "pelican-plugins/ipynb"]
+	path = pelican-plugins/ipynb
+	url = git://github.com/danielfrg/pelican-ipynb.git
