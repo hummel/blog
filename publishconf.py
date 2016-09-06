@@ -14,6 +14,4 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
-
-#GOOGLE_ANALYTICS = 'UA-34061646-1'
-DISQUS_SITENAME = 'hummel'
+print(SITEURL)
