@@ -58,9 +58,11 @@ COPYRIGHT_YEAR = 2016
 
 DEFAULT_PAGINATION = 10
 
+MARKUP = ('md', 'ipynb')
 PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['sitemap', 'post_stats', 'liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.include_code', 'liquid_tags.literal', 'ipynb.liquid']
+           'liquid_tags.include_code', 'liquid_tags.literal',
+           'ipynb.markup', 'ipynb.liquid']
 
 SITEMAP = {
     'format': 'xml',
